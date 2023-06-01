@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&family=Parisienne&family=Quicksand:wght@300&display=swap');
+/*style h1*/
+* {
+    box-sizing: border-box;
+}
+h1 {
+    font-family: parisienne, sans-serif;
+    font-size: 80px;
+    color: #67265b;
+    text-align: center;
+}
+/*removing the line under anchor and add some style*/
+.navbar a{
+    text-decoration: none;
+    font-family: cairo, sans-serif;
+    font-size: 60px;
+    color: white;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+    justify-content: space-around;
+    background-color: #aaadb5;
+    
+}
+.navbar a:hover {
+    text-decoration: underline;
+    color: #67265b;
+}
+/*sizing the hero image*/
+.hero-image {
+    display: flex;
+    width: 1200px;
+    height: 791px;  
+}
+/*styling trending*/
+.trending {
+    font-family: cairo, sans-serif;
+    font-size: 50px;
+    color: white;
+    background-color: #aaadb5;
+    display: flex;
+    justify-content: center;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    height: 500px;
+}
+.left {
+    display: flex;
+    width: 33%;
+    background-color: #2D313A;
+    flex-direction: column;
+    
+}
+.left li{
+    font-family: cairo, sans-serif;
+    font-size: 40px;
+    color: white;
+
+}
+.right {
+    display: flex;
+    width: 33%;
+    background-color: #2D313A;
+    flex-direction: column;
+    
+
+}
+.right li{
+    font-family: cairo, sans-serif;
+    font-size: 40px;
+    color: white;
+}
+.middle {
+    display: flex;
+    background: url(../images/trending1.jpg) no-repeat;
+    width: 33%;
+}
+.social {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    font-size: xx-large;
+    background-color: #aaadb5;
+    height: 150px;
+    align-items: center;
+}
+
+/*styling menu page*/
+section a {
+    text-decoration: none;
+    color: white;
+    font-family: cairo, sans-serif;
+    font-size: 40px;
+}
+section {
+    margin-top: 30px;
+    background-color: #2D313A;
+    display: flex;
+    justify-content: space-around;
+}
+section a:hover {
+    text-decoration: underline;
+    color: #D82D93;
+}
+.drinks {
+    display: flex;
+}
+.sparkling {
+    display: flex;
+    color: white;
+    background-color: #D82D93;
+    height: fit-content;
+    width: 50%;
+    margin: 20px 0 0 25%;
+    justify-content: center;
+}
+.box {
+    display: flex;
+    margin-top: 100px;
+    flex-wrap: wrap;
+}
+.black-tea {
+    display: flex;
+    color: white;
+    background-color: #D82D93;
+    height: fit-content;
+    width: 50%;
+    margin: 20px 0 0 25%;
+    justify-content: center;
+}
+.green-tea {
+    display: flex;
+    color: white;
+    background-color: #D82D93;
+    height: fit-content;
+    width: 50%;
+    margin: 20px 0 0 25%;
+    justify-content: center;
+}
+.extras {
+    display: flex;
+    color: white;
+    background-color: #D82D93;
+    height: fit-content;
+    width: 50%;
+    margin: 20px 0 0 25%;
+    justify-content: center;
+
+}
+p {
+    margin-left: 33.3%;
+    font-size: 20px;
+}
+/*styling contact page*/
+.contact-box {
+    width: 100%;
+    display: flex;
+    background-image: url(../images/contactbackground.jpg);
+    height: 800px;
+    background-repeat: no-repeat;
+    margin-top: 70px;
+    margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+}
+form {
+    width: 80%;
+    margin-left: 30%;
+    
+}
+input, textarea{
+    width: 60%;
+    margin-bottom: 10px;
+    background: transparent;
+    color: black;
+    border: 6px solid #D7CDB8;
+    font-size: 20px;
+}
+textarea {
+    height: 500px;
+}
+input {
+    height: 60px;
+}
+button {
+    background-color: #D7CDB8;
+    width: 100px;
+    font-size: 20px;
+    margin-left: 50%;
+}
+/*styling about page*/
+.about img{
+    width: 100%;
+    position: relative;
+}
+
+.about p {
+    font-family: cairo, sans-serif;
+    font-size: 30px;
+    color: #393438;
+    background-color: transparent;
+}
+ p {
+    width: 80%;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 10%;
+    top: 40%;
+    
+}
