@@ -152,7 +152,8 @@ section a:hover {
     display: flex;
 }
 .sparkling {
-    margin-top: 5px;
+    margin-top: 5%;
+    margin-bottom: 5%;
     width: 50%;
     height: 50px;
     display: flex;
@@ -186,7 +187,8 @@ figcaption {
 }
 
 .black-tea {
-    margin-top: 5px;
+    margin-top: 5%;
+    margin-bottom: 5%;
     width: 50%;
     height: 50px;
     display: flex;
@@ -195,7 +197,8 @@ figcaption {
     justify-content: center;
 }
 .green-tea {
-    margin-top: 5px;
+    margin-top: 5%;
+    margin-bottom: 5%;
     width: 50%;
     height: 50px;
     display: flex;
@@ -204,7 +207,7 @@ figcaption {
     justify-content: center;
 }
 .extras {
-    margin-top: 5px;
+    margin-top: 5%;
     width: 50%;
     height: 50px;
     display: flex;
