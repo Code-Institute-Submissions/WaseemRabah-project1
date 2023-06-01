@@ -62,6 +62,7 @@ h1 {
 }
 /*styling trending*/
 .trending {
+    width: 100%;
     font-family: cairo, sans-serif;
     font-size: 50px;
     color: white;
