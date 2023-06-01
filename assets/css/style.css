@@ -172,8 +172,12 @@ section a:hover {
 
 .box {
     display: flex;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
 }
+
+
 .black-tea {
     display: flex;
     color: white;
@@ -202,10 +206,7 @@ section a:hover {
     justify-content: center;
 
 }
-p {
-    margin-left: 33.3%;
-    font-size: 20px;
-}
+
 /*styling contact page*/
 .contact-box {
     width: 100%;
