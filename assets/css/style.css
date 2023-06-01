@@ -71,13 +71,14 @@ h1 {
     justify-content: center;
 }
 .container {
+    width: 100%;
     display: flex;
     justify-content: space-around;
     height: 500px;
 }
 .left {
     display: flex;
-    width: 33%;
+    width: 33.3%;
     background-color: #2D313A;
     flex-direction: column;
     
@@ -90,7 +91,7 @@ h1 {
 }
 .right {
     display: flex;
-    width: 33%;
+    width: 33.3%;
     background-color: #2D313A;
     flex-direction: column;
 }
@@ -106,9 +107,12 @@ h1 {
 .middle {
     display: flex;
     background: url(../images/trending1.jpg) no-repeat;
-    width: 33%;
+    width: 33.3%;
 }
 
+footer {
+    width: 100%;
+}
 
 .social {
     display: flex;
