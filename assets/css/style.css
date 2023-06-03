@@ -257,6 +257,7 @@ button {
     margin-left: 50%;
 }
 /*styling about page*/
+
 .about img{
     width: 100%;
     position: relative;
@@ -274,8 +275,8 @@ button {
     margin-top: 10%;
     margin-left: 10%;
     top: 40%;
+ }
     
-}
 
 
 /*media queries*/
