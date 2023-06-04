@@ -242,17 +242,42 @@ input, textarea{
     border: 6px solid #D7CDB8;
     font-size: 20px;
 }
+
+.fname {
+    display: flex;
+    justify-content: center;
+}
+
+
+.email {
+    display: flex;
+    justify-content: center;
+}
+
+
+.textarea {
+    display: flex;
+    justify-content: center;
+}
+
 textarea {
     height: 500px;
+    
 }
+
+
+
 input {
     height: 60px;
 }
+
+
+
 button {
     background-color: #D7CDB8;
     width: 100px;
     font-size: 20px;
-    margin-left: 50%;
+    margin-left: 71%;
 }
 /*styling about page*/
 
