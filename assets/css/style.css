@@ -279,27 +279,31 @@ button {
     font-size: 20px;
     margin-left: 71%;
 }
-/*styling about page*/
 
-.about img{
+.about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../images/about.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
     width: 100%;
-    position: relative;
 }
+
 
 .about p {
     font-family: cairo, sans-serif;
-    font-size: 1.9rem;
+    font-size: 2.5vw;
     color: #393438;
     background-color: transparent;
-}
- p {
     width: 80%;
-    position: absolute;
-    margin-top: 10%;
-    margin-left: 10%;
-    top: 40%;
- }
-    
+    margin-top: 0;
+    margin-left: 0;
+}
+
+
+
 
 
 /*media queries*/
@@ -346,4 +350,7 @@ button {
     }
     
 
+    .about {
+
+    }
 }
