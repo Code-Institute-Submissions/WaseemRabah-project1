@@ -167,7 +167,7 @@ section a:hover {
 
 .sparkling h3, .black-tea h3, .green-tea h3, .extras h3 {
     font-family: cairo, sans-serif;
-    font-size: 30px;
+    font-size: 1.3rem;
     display: flex;
     width: 100%;
     justify-content: center;
