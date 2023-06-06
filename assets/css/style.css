@@ -307,7 +307,15 @@ button {
 }
 
 
+.social a {
+    color: #67265B;
+  }
 
+
+
+  .social a:hover {
+    color: #180C16;
+  }
 
 
 /*media queries*/
@@ -362,5 +370,9 @@ button {
 
     .section a {
         font-size: 1.3rem;
+    }
+
+    .about {
+        background-image: none;
     }
 }
