@@ -91,3 +91,14 @@ The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
     - Footer contains social media links that open in a new tab.
 
     ![Footer](documentation/footer.png)
+---
+
++ ### Menu Page
+
+    - Menu page has navbar that Shows the user the types of tea And leads him to the chosen section.
+    - It has a photos of the products.
+
+        - The menu is responsive: the size of the photo depends on the user's screen.
+        - Each image has a name that appear under each product.
+
+    - It has a footer identical to the home page's footer.
