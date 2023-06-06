@@ -102,3 +102,13 @@ The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
         - Each image has a name that appear under each product.
 
     - It has a footer identical to the home page's footer.
+
+
+---
++ ### Contact page
+
+    - Contact page has a contact form:
+
+        - All text input fields are customized.
+        - All inputs are set to be required to fill out.
+         The submit button is animated on hover.
