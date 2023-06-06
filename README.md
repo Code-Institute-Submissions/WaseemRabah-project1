@@ -1,3 +1,7 @@
+![Infinitea  logo](documentation/infinitealogo.png)
+
+
+
 # *Infinitea*
 Infinitea website allows people to browse wide range of products that the "Infinitea website" provide.
 The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
@@ -36,4 +40,54 @@ The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
         * CONTACT - leads to the contact form page where users can fill out the form in order to get in touch with the company.
     - The links have animated hover effect.
     - The navigation is clear and easy to understand for the user.
+    ![NavBar desktop](documentation/navbar_desktop.png)
     
+    - The navigation bar is responsive:
+        * On tablets:
+        ![NavBar Tablets](documentation/navbar_tablet.png)
+
+        * On mobile devices: the navbar elemeents under eachother
+        ![NavBar Mobile](documentation/navbar_mobile.png)
+
+
+
+---
+
++ ### Home Page
+
+    - Represent: 
+
+        * the main idea of the company.
+        * Includes a main image of some products
+        * Contains a section for best selling products.
+        * Contains social media links.
+
+
+        ![Home Page](documentation/home_page.png)
+
+---
+
++ #### Hero Section
+
+    - Hero section have a wide image of our products.
+
+    ![Hero Section](documentation/products-image.png)
+
+
+
++ #### Our trendings Section
+
+
+    - Our trendings Section has 2 boxes of some products names and image between them.
+    - Tells website visitors what is our best seller products.
+
+    ![our trendings Section](documentation/our_trendings.png)
+
+
+---
+
++ #### Footer
+
+    - Footer contains social media links that open in a new tab.
+
+    ![Footer](documentation/footer.png)
