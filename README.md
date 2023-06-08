@@ -103,6 +103,8 @@ The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
 
     - It has a footer identical to the home page's footer.
 
+    ![Contact page](documentation/menu.png)
+
 
 ---
 + ### Contact page
@@ -111,4 +113,54 @@ The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
 
         - All text input fields are customized.
         - All inputs are set to be required to fill out.
-         The submit button is animated on hover.
+        - The submit button is animated on hover.
+        - The page is responsive on all common screen sizes.
+        - The submit button leads to the response page.
+
+    ![Contact page](documentation/contact.png)
+
+
++ ### About page
+
+    - About page has paragraph with image in the background.
+    - The background image disappear on small screens to make it easier to red.
+    
+    ![Contact page](documentation/about.png)
+
+
+---
++ ### Response page
+
+    - Response page appears after submitting the contact form.
+    - It contains the thank you message.
+
+    ![Response page](documentation/response_page.png)
+
+
+---
+## Technologies Used
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages.
+- [CSS roots](https://developer.mozilla.org/en-US/docs/Web/CSS/:root) was used to declaring global CSS variables and apply them throughout the project. 
+- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [Git](https://git-scm.com/) was used for the version control of the website.
+- [GitHub](https://github.com/) was used to host the code of the website.
+
+
+---
+## Design
+
+### Color Scheme
+
+### Typography
+
+![Logo Font](documentation/parisienne.png)
+
+- Parisienne Google Font was used as the font of the Logo.
+
+![Main Font](documentation/cairo.png)
+
+- Cairo Google Font was used as the main font of the website in order to increase readability of the content on the pages.
