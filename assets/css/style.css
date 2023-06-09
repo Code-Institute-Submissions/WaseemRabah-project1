@@ -359,10 +359,18 @@ button:hover {
         align-items: center;
     }
 
+    .left li{
+        font-size: 1.1rem;
+    }
+
 
     .right {
         width: 100%;
         align-items: center;
+    }
+
+    .right li {
+        font-size: 1.1rem;
     }
 
 
@@ -387,6 +395,7 @@ button:hover {
     }
 
     .trending {
-        font-size: 1.3rem;
+        font-size: 1.2rem;
     }
+   
 }
