@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@500&family=Parisienne&family=Quicksand:wght@300&display=swap');
 /*style h1*/
+
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -112,6 +114,7 @@ h1 {
     display: flex;
     background: url(../images/trending1.jpg) no-repeat;
     width: 33.3%;
+    background-size: cover;
 }
 
 footer {
