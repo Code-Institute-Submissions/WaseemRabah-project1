@@ -146,6 +146,10 @@ section {
     justify-content: space-around;
 }
 
+.heading__none {
+    display: none;
+  }
+
 section a {
     text-decoration: none;
     color: white;
