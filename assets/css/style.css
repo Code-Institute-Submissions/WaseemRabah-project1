@@ -385,4 +385,8 @@ button:hover {
     .about {
         background-image: none;
     }
+
+    .trending {
+        font-size: 1.3rem;
+    }
 }
