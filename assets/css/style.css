@@ -88,6 +88,7 @@ h1 {
     background-color: #2D313A;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
     
 }
 .left li{
@@ -102,6 +103,7 @@ h1 {
     background-color: #2D313A;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
 }
 
 
