@@ -183,7 +183,11 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 + The website was tested on the following browsers: Chrome, Firefox, Edge.
 
     - Chrome:
-    
+    ![Chrome Home](documentation/chrome_home.png)
+    ![Chrome Menu](documentation/chrome_menu.png)
+    ![Chrome Contact](documentation/chrome_contact.png)
+    ![Chrome Response](documentation/chrome_response.png)
+    ![Chrome About](documentation/chrome_about.png)
 
     - FireFox:
 
