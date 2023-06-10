@@ -174,6 +174,19 @@ The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
 
 #### Mobile devices
 
+- [Mobile devices](documentation/mobile_wireframe.pdf)
+
+
+#### Tablets
+
+- [Tablets](documentation/tablet_wireframe.pdf)
+
+
+#### Desktop
+
+- [Desktop](documentation/desktop_wireframe.pdf)
+
+
 ---
 
 ## Testing
