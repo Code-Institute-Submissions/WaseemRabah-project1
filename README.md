@@ -190,6 +190,10 @@ In order to confirm the correct functionality, responsiveness, and appearance:
     ![Chrome About](documentation/chrome_about.png)
 
     - FireFox:
-
+    ![Firefox Home](documentation/firefox_home.png)
+    ![Firefox Menu](documentation/chrome_menu.png)
+    ![Firefox Contact](documentation/firefox_contact.png)
+    ![Firefox Response](documentation/firefox_response.png)
+    ![Firefox About](documentation/firefox_about.png)
 
     - Edge:
