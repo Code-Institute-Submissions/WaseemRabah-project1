@@ -168,3 +168,24 @@ The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
 ![Main Font](documentation/cairo.png)
 
 - Cairo Google Font was used as the main font of the website in order to increase readability of the content on the pages.
+
+
+### Wireframes
+
+#### Mobile devices
+
+---
+
+## Testing
+
+In order to confirm the correct functionality, responsiveness, and appearance:
+
++ The website was tested on the following browsers: Chrome, Firefox, Edge.
+
+    - Chrome:
+    
+
+    - FireFox:
+
+
+    - Edge:
