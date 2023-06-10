@@ -155,6 +155,10 @@ The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
 
 ### Color Scheme
 
+![Color pallet](documentation/color.png)
+
+- This color combination is used to make the site attractive, simple and easy for the visitor to read and navigate.
+
 ### Typography
 
 ![Logo Font](documentation/parisienne.png)
