@@ -249,4 +249,90 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
 
 ---
+## Validator testing
++ ### HTML
+  #### Home Page
+    - No errors or warnings were found when passing through the official W3C validator.
 
+
+    ![Home Page HTML Validator](documentation/home_validation.png)
+
+
+  #### Menu Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+
+    ![Menu Page HTML Validator](documentation/menu_validation.png)
+
+
+  #### Contact Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+
+    ![Contact Page HTML Validator](documentation/contact_validation.png)
+
+
+  #### Response Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+
+    ![Respons Page HTML Validator](documentation/response_validation.png)
+
+  #### About Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+
+    ![About Page HTML Validator](documentation/about_validation.png)
+
+
++ ### CSS
+
+
+---
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/WaseemRabah/project1), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://waseemrabah.github.io/project1/)
+
+## Local Deployment
+
+In order to make a local copy of this project, you can clone it.
+In your IDE Terminal, type the following command to clone my repository:
+
+    - `git clone https://github.com/WaseemRabah/project1.git`
+
+    ---
+
+## Future improvements
+- add favicon with [Favicon Generator. For real.](https://realfavicongenerator.net/);
+- add custom 404 page;
+- add accessability report with [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/);
+- improve the quality of the commit messages (I am aware that some of them are not very clear and not meeting the standards and will improve them in the future);
+- add fully functional contact form when;
+
+---
+## Credits
+
++ #### Content
+
+    - Inspiration for the responsive web page came from [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool) on his YouTube channel.
+
+    + #### Media
+
+    - All the images for the website were taken from [Freepik](https://www.freepik.com/).
+
+    + #### Tools
+
+    - [cooler](https://coolors.co/) was used to create the color palette.
+
+
+---
+
+## Acknowledgments
+
+- [Juliia Konovalova](https://github.com/IuliiaKonovalova) Great supporter and motivator,She helped me understand CSS a lot and made my experiences evolve.
+- [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
