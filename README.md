@@ -245,4 +245,4 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 | Your name input | Enter Your name | Your name is entered | Yes | Yes | If user doesn't enter the name, the error message appears |
 | Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
 | "SEND" button | Click on the "SEND" button | The user is redirected to the response page | Yes | Yes | - |
-| Response page | | | | | |
+| Response page | | "Thank You" Message will appear  | | | |
