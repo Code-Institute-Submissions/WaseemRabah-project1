@@ -215,3 +215,8 @@ In order to confirm the correct functionality, responsiveness, and appearance:
     ![Edge Contact](documentation/chrome_contact.png)
     ![Edge Response](documentation/edge_response.png)
     ![Edge About](documentation/edge_about.png)
+
+
++ The website was checked with [Responsive Viewer Chrome Extention]
+
+    ![Responsive Test](documentation/responsive_test.pdf)
