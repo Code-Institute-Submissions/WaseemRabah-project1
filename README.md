@@ -286,7 +286,9 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
 
 + ### CSS
+    No errors or warnings were found when passing through the official W3C (Jigsaw) validator:
 
+    ![CSS Validator](documentation/css_validation.png)
 
 ---
 ## Deployment
