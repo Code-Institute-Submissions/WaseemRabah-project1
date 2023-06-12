@@ -4,7 +4,7 @@
 
 # *Infinitea*
 Infinitea website allows people to browse wide range of products that the "Infinitea website" provide.
-The site can be accessed by this [link](https://github.com/WaseemRabah/project1)
+The site can be accessed by this [link](https://waseemrabah.github.io/project1/)
 
 
 ## User Stories
@@ -246,3 +246,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 | Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
 | "SEND" button | Click on the "SEND" button | The user is redirected to the response page | Yes | Yes | - |
 | Response page | | "Thank You" Message will appear  | | | |
+
+
+---
+
