@@ -220,3 +220,29 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 + The website was checked with [Responsive Viewer Chrome Extention]
 
     ![Responsive Test](documentation/responsive_test.pdf)
+
+
+
+### Manual testing
+
+| feature | action | expected result | tested | passed | comments |
+| --- | --- | --- | --- | --- | --- |
+| Navbar | | | | | |
+| Home | Click on the "Home" link | The user is redirected to the main page | Yes | Yes | - |
+| Menu | Click on the "Menu" link | The user is redirected to the Menu page | Yes | Yes | - |
+| Contact | Click on the "Contact" link | The user is redirected to the contact page | Yes | Yes | - |
+| Footer | | | | | |
+| Instagram icon in the footer | Click on the Instagram icon | The user is redirected to the Instagram page | Yes | Yes | - |
+| Facebook icon in the footer | Click on the Facebook icon | The user is redirected to the Facebook page | Yes | Yes | - |
+| Snapchat icon in the footer | Click on the Snapchat icon | The user is redirected to the Snapchat page | Yes | Yes | - |
+| Home page | | | | | |
+| "Contact" button in Hero section | Click on the "Contact" button | The user is redirected to the contact page | Yes | Yes | - |
+| "Contact" button in Call to action section | Click on the "Contact" button | The user is redirected to the contact page | Yes | Yes | - |
+| Menu page | | | | | |
+| "Contact" button in Hero section | Click on the "Contact" button | The user is redirected to the contact page | Yes | Yes | - |
+| "Contact" button in Call to action section | Click on the "Contact" button | The user is redirected to the contact page | Yes | Yes | - |
+| Contact page | | | | | |
+| Your name input | Enter Your name | Your name is entered | Yes | Yes | If user doesn't enter the name, the error message appears |
+| Email input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
+| "SEND" button | Click on the "SEND" button | The user is redirected to the response page | Yes | Yes | - |
+| Response page | | | | | |
