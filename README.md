@@ -321,13 +321,13 @@ In your IDE Terminal, type the following command to clone my repository:
 
     - Inspiration for the responsive web page came from [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool) on his YouTube channel.
 
-    + #### Media
++ #### Media
 
     - The menu images were taken from [Bubbleteashop](https://bubbleteashop.com/).
     - All other images were taken from [Freepik](https://www.freepik.com/).
     
 
-    + #### Tools
++ #### Tools
 
     - [cooler](https://coolors.co/) was used to create the color palette.
 
