@@ -323,7 +323,9 @@ In your IDE Terminal, type the following command to clone my repository:
 
     + #### Media
 
-    - All the images for the website were taken from [Freepik](https://www.freepik.com/).
+    - The menu images were taken from [Bubbleteashop](https://bubbleteashop.com/).
+    - All other images were taken from [Freepik](https://www.freepik.com/).
+    
 
     + #### Tools
 
