@@ -210,3 +210,8 @@ In order to confirm the correct functionality, responsiveness, and appearance:
     ![Firefox About](documentation/firefox_about.png)
 
     - Edge:
+    ![Edge Home](documentation/edge_home.png)
+    ![Edge Menu](documentation/edge_menu.png)
+    ![Edge Contact](documentation/chrome_contact.png)
+    ![Edge Response](documentation/edge_response.png)
+    ![Edge About](documentation/edge_about.png)
