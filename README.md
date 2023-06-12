@@ -305,7 +305,7 @@ The live link can be found [here](https://waseemrabah.github.io/project1/)
 In order to make a local copy of this project, you can clone it.
 In your IDE Terminal, type the following command to clone my repository:
 
-    - `git clone https://github.com/WaseemRabah/project1.git`
+    - `git clone https://github.com/WaseemRabah/project1.git`.
 
     ---
 
