@@ -309,6 +309,10 @@ In your IDE Terminal, type the following command to clone my repository:
 
 ---
 
+## Future improvements
+
+
+---
 ## Credits
 
 + #### Content
