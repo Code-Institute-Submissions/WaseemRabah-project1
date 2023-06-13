@@ -251,6 +251,22 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
 
 ---
+
+### Bugs
++ ##### Solved bugs
+
+    1. The footer in about page was outside the body.
+    *Solutions:* move the footer inside the body.
+
+
+    2. The unorderd lists in the home page were contain line break elements. 
+    *Solutions:* remove the line break elements and use css to to rearrange items.
+    ---
++ ##### Unsolved bugs
+    - None.
+
+---
+
 ## Validator testing
 + ### HTML
   #### Home Page
