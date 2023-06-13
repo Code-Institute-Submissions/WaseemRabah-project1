@@ -322,6 +322,7 @@ In your IDE Terminal, type the following command to clone my repository:
 + #### Content
 
     - Inspiration for the responsive web page came from [Elzero Web School](https://www.youtube.com/@ElzeroWebSchool) on his YouTube channel.
+    - The paragraph in about page was taken from [Bubbleteashop](https://bubbleteashop.com/).
 
 + #### Media
 
