@@ -292,6 +292,29 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     ![CSS Validator](documentation/css_validation.png)
 
++ ### Accessibility and performance 
+    - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
+
+    #### Home page
+
+    ![Home Page Lighthouse](documentation/lighthouse_home.png)
+
+    #### Menu page
+
+    ![Menu Page Lighthouse](documentation/lighthouse_menu.png)
+
+    #### Contact page
+
+  ![Contact Page Lighthouse](documentation/lighthouse_contact.png)
+
+  #### Response page
+
+  ![Response Page Lighthouse](documentation/lighthouse_response.png)
+
+  #### About page
+
+  ![About Page Lighthouse](documentation/lighthouse_about.png)
+
 ---
 ## Deployment
 
