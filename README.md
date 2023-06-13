@@ -219,7 +219,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
 + The website was checked with [Responsive Viewer Chrome Extention]
 
-    ![Responsive Test](documentation/responsive_test.pdf)
+    - [Responsive Test](documentation/responsive_test.pdf)
 
 
 
