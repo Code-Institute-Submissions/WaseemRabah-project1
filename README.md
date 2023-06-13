@@ -6,6 +6,8 @@
 Infinitea website allows people to browse wide range of products that the "Infinitea website" provide.
 The site can be accessed by this [link](https://waseemrabah.github.io/project1/)
 
+![Responsive Mockup](documentation/amiresponsive.png)
+
 
 ## User Stories
 
